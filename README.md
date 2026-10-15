@@ -7,13 +7,7 @@ Movie Discovery is an Expo app for finding movies, TV shows, and people using TM
 The app has separate screens for browsing lists, searching, filtering, viewing details,
 and keeping a personal movie watchlist.
 
-## Screenshots
 
-Screenshots can be added here after running the app on a device:
-
-| Home                    | Movie details                    | Search                    |
-| ----------------------- | -------------------------------- | ------------------------- |
-| _Add a Home screenshot_ | _Add a Movie Details screenshot_ | _Add a Search screenshot_ |
 
 ## Features
 
@@ -189,15 +183,7 @@ functions through the React Query hooks listed below.
 - YouTube playback depends on network access and the availability of an embeddable video.
 - The screenshots section is a placeholder until device captures are added.
 
-## Future improvements
 
-- Add unit tests for formatters, endpoint parameter construction, and trailer selection.
-- Add component and navigation tests for the main loading, error, empty, and success
-  states.
-- Capture Android and iOS screenshots and test on physical devices and smaller screens.
-- Add a server-side proxy if the API credential must be kept out of client bundles.
-- Add optional account-based watchlist synchronization and configurable provider region.
-- Add accessibility checks and automated CI for lint, type checking, tests, and export.
 
 ## TMDB attribution
 
