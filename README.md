@@ -116,10 +116,6 @@ src/
   screens/                      Home, Search, Explore, TV, Watchlist, and detail screens
   theme/                        Shared colors, spacing, and typography
   utils/                        Formatting, constants, errors, and media helpers
-docs/
-  API_REFERENCE.md              Endpoint paths and response notes
-  ARCHITECTURE.md                Application design and data flow
-  INTERVIEW_NOTES.md             Project pitch, walkthrough, and interview practice
 ```
 
 ## Implemented TMDB endpoints
